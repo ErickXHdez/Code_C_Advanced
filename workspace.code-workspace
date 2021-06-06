@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.c": "c",
+			"cstdio": "cpp",
+			"stdio.h": "c",
+			"empleados.h": "c",
+			"_mingw_print_push.h": "c"
+		}
+	}
+}
